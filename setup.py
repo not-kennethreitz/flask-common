@@ -16,7 +16,7 @@ setup(
     name='Flask-Common',
     version='0.3.0',
     url='https://github.com/kennethreitz/flask-common',
-    license='BSD',
+    license='Apache 2.0',
     author='Kenneth Reitz',
     author_email='me@kennethreitz.org',
     description='A Flask extension with lots of common time-savers (file-serving, favicons, etc).',
